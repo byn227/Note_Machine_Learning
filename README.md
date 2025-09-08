@@ -1,3 +1,3 @@
 # note_machine_learning
 
-I will do the challenge of 81 days which i study Machine Learning. Some knowloedge and library of python i've study before but i want restudy to complete my knows. 
+I will do an 81-day challenge to study Machine Learning, dedicating at least 2 hours per day. I have already studied some knowledge and Python libraries before, but I want to review them to complete my understanding.
