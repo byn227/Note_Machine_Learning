@@ -43,3 +43,7 @@ Convolutional Neural Networks are specialized neural networks for processing gri
 
 ![CNN Architecture](image-25.png)
 
+## Select the model
+
+![alt text](image-26.png)
+![alt text](image-27.png)
