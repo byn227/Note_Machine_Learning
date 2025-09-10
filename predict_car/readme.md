@@ -165,3 +165,10 @@ We want to find the best value for the regularization parameter. For Linear Regr
 1. Use your model!
 
 ![alt text](image.png)
+
+
+
+
+## High Variance and High Bias
+
+![alt text](image-1.png)

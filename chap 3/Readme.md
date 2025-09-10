@@ -12,6 +12,7 @@ A neural network is a computational model inspired by the human brain, consistin
 ![Neural Network Activation](image-4.png)
 ![Neural Network Output](image-5.png)
 ![Neural Network Connections](image-6.png)
+![alt text](image-33.png)
 ![Neural Network Visualization](image-7.png)
 ![Neural Network Structure](image-8.png)
 ![Neural Network Flow](image-9.png)
@@ -47,3 +48,19 @@ Convolutional Neural Networks are specialized neural networks for processing gri
 
 ![alt text](image-26.png)
 ![alt text](image-27.png)
+
+
+## Transfer Learning
+![alt text](image-28.png)
+![alt text](image-29.png)
+
+## Skewed dataset
+1. Precision/Recall
+
+![alt text](image-30.png)
+
+![alt text](image-31.png)
+
+2. Example
+
+![alt text](image-32.png)

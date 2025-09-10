@@ -74,3 +74,20 @@ Regularization adds a penalty to the loss function to discourage complex models 
 
 ![Regularization Example 1](image-15.png)
 ![Regularization Example 2](image-16.png)
+
+
+## High Variance and High Bias
+High variance (overfitting)
+
+
+![alt text](image-17.png)
+
+![alt text](image-18.png)
+![alt text](image-19.png)
+![alt text](image-20.png)
+![alt text](image-21.png)
+
+## Regularized neuron network
+![
+    
+](image-22.png)
