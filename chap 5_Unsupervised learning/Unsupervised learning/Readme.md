@@ -17,3 +17,15 @@
 K-means is sensitive to how the initial cluster centroids are chosen. A bad initialization can lead to local minima (poor clustering results with high distortion/cost). Instead of running K-means once, we run it many times (e.g., 100, or even 50–1000 times):
 ![alt text](image-6.png)
 ![alt text](image-7.png)
+
+
+## Anomaly
+![alt text](image-8.png)
+![alt text](image-9.png)
+![alt text](image-10.png)
+![alt text](image-11.png)
+![alt text](image-12.png)
+![alt text](image-13.png)
+![alt text](image-14.png)
+![alt text](image-15.png)
+![alt text](image-16.png)
