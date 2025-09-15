@@ -24,3 +24,16 @@
 
 ## Discrete vs Continuous
 ![alt text](image-12.png)
+
+## Deep Reinforcement Learning
+![alt text](image-13.png)
+![alt text](image-14.png)
+
+Improve neural network architecture:
+![alt text](image-15.png)
+
+## Epsilon Greedy
+![alt text](image-16.png)
+
+## Soft update
+![alt text](image-17.png)
