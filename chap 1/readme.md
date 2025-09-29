@@ -64,9 +64,10 @@ Select the best model
 Apply the best model to the test dataset
 Compare the performance metrics of validation and test
 
-## Library Numpy
-
 ## Linear Algebra with Numpy
-
+[File linear algebra with numpy) (./numpy.ipynb)
 ## Pandas
 I have the knowledge of data engineering so i skip this part
+
+## Lab
+The file type .ipynb is based on the course Machine Learning by Deeplearning.AI

@@ -33,3 +33,6 @@
 
 ## Content-based filtering
 ![alt text](image-16.png)
+
+## Lab
+(./Collaborative.ipynb)

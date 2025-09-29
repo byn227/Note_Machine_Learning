@@ -15,6 +15,7 @@
 ![alt text](image-6.png)
 ![d:\State-action value function example.ipynb](image-7.png)
 
+(./State-action value function example.ipynb)
 ## Bellman equation
 ![alt text](image-8.png)
 ![alt text](image-9.png)
@@ -37,3 +38,6 @@ Improve neural network architecture:
 
 ## Soft update
 ![alt text](image-17.png)
+
+## Lab
+(./Q-learning.ipynb)
