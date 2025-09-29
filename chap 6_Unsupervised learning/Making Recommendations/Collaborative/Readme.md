@@ -35,4 +35,5 @@
 ![alt text](image-16.png)
 
 ## Lab
-(./Collaborative.ipynb)
+
+[📓 Collaborative Filtering Lab](./Collaborative.ipynb)

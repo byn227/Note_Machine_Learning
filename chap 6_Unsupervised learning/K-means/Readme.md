@@ -1,5 +1,5 @@
 ## Intro of the Clustering
-![alt][image.png]
+![alt text](image.png)
 ![alt text](image-1.png)
  
 
@@ -18,6 +18,6 @@ K-means is sensitive to how the initial cluster centroids are chosen. A bad init
 ![alt text](image-6.png)
 ![alt text](image-7.png)
 
-(./K-means.ipynb)
+[📓 K-means Clustering Lab](./K-means.ipynb)
 
 

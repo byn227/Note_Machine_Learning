@@ -65,7 +65,7 @@ Apply the best model to the test dataset
 Compare the performance metrics of validation and test
 
 ## Linear Algebra with Numpy
-[File linear algebra with numpy) (./numpy.ipynb)
+[📓 Linear Algebra with Numpy Lab](./numpy.ipynb)
 ## Pandas
 I have the knowledge of data engineering so i skip this part
 

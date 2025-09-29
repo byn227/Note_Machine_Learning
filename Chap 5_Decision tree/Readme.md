@@ -14,8 +14,10 @@
 
 
 ## Lab Decision Tree
-(./lab/Decision_Tree.ipynb)
+
+[📓 Decision Tree Lab](./lab/Decision_Tree.ipynb)
 
 ## Random Forest
 Random Forest is an ensemble learning method that constructs multiple decision trees during training and outputs the mode of the classes (classification) or mean prediction (regression) of the individual trees. It improves accuracy and controls overfitting by averaging the results of multiple trees.
-(./lab/Tree_Ensemble.ipynb)
+
+[📓 Tree Ensemble (Random Forest) Lab](./lab/Tree_Ensemble.ipynb)

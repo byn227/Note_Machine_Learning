@@ -19,4 +19,5 @@
 ![alt text](image-8.png)
 
 ## Lab
-(./Content_based.ipynb)
+
+[📓 Content-based Filtering Lab](./Content_based.ipynb)

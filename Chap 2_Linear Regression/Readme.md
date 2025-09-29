@@ -6,13 +6,13 @@ This chapter covers key concepts in machine learning optimization, including gra
 
 Linear regression is a fundamental machine learning algorithm used for predicting a continuous target variable based on one or more input features. The model assumes a linear relationship between the input features and the target variable.
 ![alt text](assets/image-23.png)
-(./lab/Model_Representation.ipynb)
+
+[📓 Model Representation Lab](./lab/Model_Representation.ipynb)
 ## Cost Function
 
 ![alt text](assets/image-24.png)
 
-
-(./lab/Cost_Function.ipynb)
+[📓 Cost Function Lab](./lab/Cost_Function.ipynb)
 
 
 
@@ -24,7 +24,7 @@ Gradient descent is an optimization algorithm used to minimize a function by ite
 ![Gradient Descent Step](assets/image-6.png)
 ![Gradient Descent Curve](assets/image-7.png)
 
-(./lab/Gradient_Descent_Linear_Regression)
+[📓 Gradient Descent for Linear Regression Lab](./lab/Gradient_Descent_Linear_Regression.ipynb)
 
 
 
@@ -39,18 +39,20 @@ Feature scaling is a technique to standardize the range of independent variables
 ![Feature Scaling Visualization](assets/image-9.png)
 ![Feature Scaling Formula](assets/image-10.png)
 
-(./lab/Feature_scaling_Learning_Rate.ipynb)
+[📓 Feature Scaling and Learning Rate Lab](./lab/Feature_scaling_Learning_Rate.ipynb)
 # Polynomial Regression
 
 Polynomial regression extends linear regression by considering polynomial terms of the features, allowing the model to fit more complex, non-linear relationships.
 
 ![Polynomial Regression Curve](assets/image-11.png)
 
-(./lab/Feature Engineering and Polynomial Regression.ipynb)
+[📓 Feature Engineering and Polynomial Regression Lab](./lab/Feature%20Engineering%20and%20Polynomial%20Regression.ipynb)
 
 ## Linear Regression with Scikit-Learn
-(./lab/Linear Regression by Scikit-Learn.ipynb)
+
+[📓 Linear Regression with Scikit-Learn Lab](./lab/Linear%20Regression%20by%20Scikit-Learn.ipynb)
 
 ## Lab
-(./lab/Linear Regression lab.ipynb)
+
+[📓 Linear Regression Main Lab](./lab/Linear%20Regression%20lab.ipynb)
 
