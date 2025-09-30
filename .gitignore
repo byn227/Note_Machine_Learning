@@ -1,1 +1,5 @@
 venv/
+Project/AI agent/Course/.venv/
+Project/AI agent/Course/uv.lock
+Project/AI agent/Course/pyproject.toml
+Project/AI agent/Course/.python-version
