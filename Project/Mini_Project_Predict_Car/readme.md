@@ -147,22 +147,22 @@ We want to find the best value for the regularization parameter. For Linear Regr
 1. Explore the data
     1. Understand the target distribution.
     1. Find out which changes you need to do to it in order to use it.
-1. Clean up the data.
+2. Clean up the data.
     1. Do transformations on it such as getting rid of spaces, lower case everything, fill in the NaNs, etc.
-1. Prepare the data.
+3. Prepare the data.
     1. Apply feature engineering -> convert categorical features into numerical ones with one-hot encoding.
     1. Shuffle and split the data into train-validation-test splits.
     1. Create the feature matrix for each split; make sure that you add the "virtual bias" column to it.
-1. Train the model.
+4. Train the model.
     1. Use the normal equation to calculate the weights.
     1. Make sure you apply a regularization parameter.
-1. Tune the model
+5. Tune the model
     1. Use RMSE to check accuracy.
     1. Predict values with the validation dataset and compare with the ground truth.
     1. Adjust regularization parameter accordingly.
     1. Plot histogram for easy visual check.
-1. Test your model with the test dataset.
-1. Use your model!
+6. Test your model with the test dataset.
+7. Use your model!
 
 ![alt text](image.png)
 
