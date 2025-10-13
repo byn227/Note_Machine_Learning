@@ -80,3 +80,19 @@ High variance (overfitting)
 [📓 Logistic Regression Main Lab](./lab/Logistic_Regression.ipynb)
 ## Regularized neuron network
 ![alt text](assets/image-22.png)
+
+## One-hot Encoding
+One-hot encoding is a technique used to convert categorical variables into a binary matrix representation. Each category is represented by a binary vector where only one element is "1" (indicating the presence of that category) and all other elements are "0".
+## DictVertorizer
+The DictVectorizer is a feature extraction tool in machine learning that converts a list of dictionaries into a matrix of features. Each dictionary represents a data point, and the keys in the dictionaries correspond to feature names. The DictVectorizer creates a sparse matrix where each column corresponds to a unique feature, and each row corresponds to a data point. It is particularly useful for handling categorical data and text data
+Example
+```python
+from sklearn.feature_extraction import DictVectorizer
+dv = DictVectorizer(sparse=False)
+
+train_dict = df_train[categorical_features + numerical_features].to_dict(orient='records')
+X_train = dv.fit_transform(train_dict) # Here the DV fit and transform in the same function
+
+val_dict = df_val[categorical_features + numerical_features].to_dict(orient='records')
+X_val = dv.transform(val_dict)
+```
